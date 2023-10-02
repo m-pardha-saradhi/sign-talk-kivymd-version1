@@ -1,0 +1,10 @@
+kivy
+kivymd
+opencv-python
+scikit-learn
+joblib
+numpy
+keras
+tensorflow
+mediapipe
+shutil
